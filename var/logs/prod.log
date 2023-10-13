@@ -1,0 +1,3 @@
+[2023-10-13 14:53:03] app.ERROR: Data from PrestaShop Addons is invalid, and cannot fallback on cache. [] []
+[2023-10-13 14:53:04] app.INFO: Protect vendor folder in module ps_facetedsearch [] []
+[2023-10-13 14:53:04] app.INFO: Module ps_facetedsearch has no vendor folder [] []
